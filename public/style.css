@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(163, 139, 185);
+}
+.con{
+    background-color: cornsilk !important;
+    width: 50% !important;
+    text-align: center;
+    margin: 15% 25%;
+}
+.col{
+    display: inline-block !important;
+}
+btn1{
+    padding-left: 50% !important;
+}
+btn2{
+    padding-right:  !important;
+}
